@@ -39,7 +39,7 @@ The following features are _currently implemented and working_:
 
  * Static configuration of cluster nodes.
 
- * Automatic discovery of cluster nodes. See [discover.go][discover.go]
+ * Automatic discovery of cluster nodes. See [discover.go][discover/discover.go]
    for the protocol specification. Discovery on the LAN is performed by
    broadcasts, Internet wide discovery is performed with the assistance
    of a global server.
